@@ -1,0 +1,9 @@
+# API Keys
+OPENWEATHER_API_KEY=1cc67a0ee3b380558ee727253d407841
+GEO_DB_API_KEY=b6cacc8708msh890b24d5cbf6cd5p13ff6djsnd4f98782443f
+
+# Claves específicas para el backend
+BACKEND_API_PORT=8080
+
+# Claves específicas para el frontend
+SERVER_PORT=3000

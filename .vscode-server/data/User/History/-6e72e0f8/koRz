@@ -1,0 +1,9 @@
+# Variables compartidas
+GEO_DB_API_KEY=TU_API_KEY
+GEO_DB_API_HOST=wft-geo-db.p.rapidapi.com
+
+# Claves específicas para el backend
+BACKEND_API_PORT=8080
+
+# Claves específicas para el frontend
+FRONTEND_PORT=3000

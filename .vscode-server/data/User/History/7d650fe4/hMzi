@@ -1,0 +1,30 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de compilación
+build/
+dist/
+
+# Archivos relacionados con configuraciones del entorno
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Directorios de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores de texto/IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

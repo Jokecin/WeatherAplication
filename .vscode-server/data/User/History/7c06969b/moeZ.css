@@ -1,0 +1,25 @@
+.autocomplete-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .consult-button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 20; /* Asegura que el botón esté por encima del dropdown */
+    position: relative; /* Necesario para aplicar z-index */
+  }
+  
+  .consult-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,33 @@
+# Directorios de compilación de Maven
+/target/
+
+# Archivos generados por IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos generados por Eclipse
+.project
+.classpath
+.settings/
+
+# Configuración de entorno
+application.properties
+application.yml
+*.env
+
+# Archivos relacionados con logs
+logs/
+*.log
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuraciones globales de Gradle (si se usa)
+.gradle/
+build/
+
+# Archivos de seguridad
+secrets/
